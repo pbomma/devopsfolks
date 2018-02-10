@@ -1,0 +1,13 @@
+*.class
+
+# Mobile tools for java (J2ME)
+.mtj.tmp/
+
+#Package files #
+*.jar
+*.war
+*.ear
+
+target
+.idea
+.devopsfolks1.iml
