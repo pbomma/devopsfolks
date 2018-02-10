@@ -3,7 +3,7 @@
 # Mobile tools for java (J2ME)
 .mtj.tmp/
 
-#Package files #
+#Package Files #
 *.jar
 *.war
 *.ear
